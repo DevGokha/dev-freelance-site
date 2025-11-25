@@ -17,11 +17,12 @@ const projects = [
     link: "#",
   },
   {
-    title: "ML Classification Model",
-    description: "End-to-end ML pipeline deployed with FastAPI & cloud hosting.",
-    tech: "Python · Scikit-Learn · FastAPI",
-    link: "#",
+    title: "ML Classification Model- Customer Churn Prediction App",
+    description: "A complete ML pipeline with data processing, model training, FastAPI backend, and a professional Next.js frontend featuring charts, PDF export, and sample profiles.",
+    tech: "Python · Scikit-Learn · FastAPI · Next.js · Vercel · Render",
+    link: "https://ml-chrun-ui-git-main-dev-gokhas-projects.vercel.app/",
   },
+  
 ];
 
 export default function Portfolio() {
